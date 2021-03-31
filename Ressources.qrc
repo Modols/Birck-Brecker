@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/Images">
+        <file>images/Joueur.png</file>
+        <file>images/Fond.png</file>
+        <file>images/Vaisseau-Orange.png</file>
+        <file>images/Vaisseau-Purple.png</file>
+        <file>images/Vaisseau-Vert.png</file>
+        <file>images/Missile.png</file>
+        <file>images/Etoile-blanche.png</file>
+        <file>images/Etoile-bleu.png</file>
+        <file>images/Vaisseau-Rouge.png</file>
+        <file>images/Fleche.png</file>
+        <file>images/Vaisseau-Rouge-Instruction.png</file>
+        <file>images/Spacebar.png</file>
+        <file>images/Touche-P.png</file>
+        <file>images/Instructions.png</file>
+    </qresource>
+</RCC>
